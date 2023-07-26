@@ -68,6 +68,7 @@ print(c,'\n')
 d=np.array([[1, 2], [3, 4]]) 
 
 e=np.array([[5, 6], [7, 8]])
+
 f = d * e #Multiplying two arrays
 
 print(f,'\n')
@@ -75,6 +76,7 @@ print(f,'\n')
 #Perform matrix multiplication
 
 g=np.array([[1, 2], [3, 4]]) 
+
 h=np.array([[5, 6], [7, 8]])
 
 i=np.dot (g, h) #dot product of two arrays
@@ -97,6 +99,7 @@ print(c,'\n')
 d=np.array([[5, 6], [7, 8]]) 
 
 e=np.array([[10, 12], [14, 16]])
+
 f = d * e #Multiplying two arrays
 
 print(f,'\n')
@@ -104,6 +107,7 @@ print(f,'\n')
 #perform matrix multiplication
 
 g=np.array([[5, 6], [7, 8]]) 
+
 h=np.array([[10, 12], [14, 16]])
 
 i=np.dot (g, h) #dot product of two arrays
