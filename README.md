@@ -4,15 +4,21 @@ This case study is about how we can install Anaconda and use Jupiter Notebook, a
 import numpy as np
 
 #create a 1-dimensional array 
+
 a=np.array([1, 2, 3, 4, 5]) #converting a list into an array 
+
 print(a,'\n')
 
 #create a 2-dimensional array 
+
 b = np.array([[1, 2, 3], [4, 5, 6]]) #Multidimensional array
+
 print(b,'\n')
 
 #create an array of zeros 
+
 c = np.zeros((3, 4)) #Zero matrix
+
 print(c,'\n') 
 
 #create an array of ones 
@@ -23,19 +29,27 @@ print(d)
 import numpy as np
 
 #create a 1-dimensional array 
+
 a=np.array([1, 2, 3, 4, 5]) #converting a list into an array 
+
 print(a,'\n')
 
 #create a 2-dimensional array 
+
 b = np.array([[11, 23, 35], [47, 59, 63]]) #Multidimensional array
+
 print(b,'\n')
 
 #create an array of zeros 
+
 c = np.zeros((2, 6)) #Zero matrix
+
 print(c,'\n') 
 
 #create an array of ones 
+
 d = np.ones((4, 5)) #ones matrix
+
 print(d) 
 
 # Program 2:
